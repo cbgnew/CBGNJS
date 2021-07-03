@@ -1,0 +1,1 @@
+The "i" folder is to be used in future versions that use icons
